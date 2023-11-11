@@ -1,0 +1,37 @@
+body {
+  font-size: large;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 2px;
+}
+
+input {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+label {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background-color: #eee;
+
+}
+
+button {
+  background-color: rgb(0, 123, 255);
+  color: white;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+  border: 0;
+  box-shadow: 0 0 5px 0 rgba(0,0,0,0.5);
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(0, 100, 255);
+}
